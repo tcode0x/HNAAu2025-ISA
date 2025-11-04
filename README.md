@@ -4,7 +4,7 @@
 
 ## 1. Giới thiệu
 
-**CSD TECH** (Cyber Security & Development Technology) là một nhóm nghiên cứu, đào tạo và triển khai dịch vụ công nghệ toàn diện, được sáng lập bởi **Nguyễn Đăng Hiếu (Hieu Nguyen)** — Security Engineer Lead tại **Cybozu Vietnam**.
+**CSD TECH** (Cyber Security & Development Technology) là một nhóm nghiên cứu, đào tạo và triển khai dịch vụ công nghệ toàn diện, được sáng lập bởi **Nguyễn Đăng Hiếu (Hieu Nguyen)** — Security Engineer Lead.
 
 CSD TECH tập trung vào việc **xây dựng phòng lab, nội dung đào tạo, công cụ và giải pháp công nghệ thực chiến** trong các lĩnh vực:
 
@@ -92,7 +92,7 @@ Mô tả chi tiết cách dựng File Server trong môi trường VMware, IP tĩ
 ## 6. Về người sáng lập
 
 **Nguyễn Đăng Hiếu (Hieu Nguyen)**  
-Security Engineer Lead — **Cybozu Vietnam**
+Security Engineer Lead
 
 - 8+ năm kinh nghiệm trong lĩnh vực **An ninh mạng và Hệ thống doanh nghiệp**.  
 - Sáng lập **CSD TECH**, **R3D Lab**, **CSDRedOps Team**.  
