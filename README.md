@@ -1,4 +1,4 @@
-# CSD TECH - Trung tâm Nghiên cứu & Đào tạo An ninh mạng, Hệ thống và AI
+# CSD TECH - Nghiên cứu & Đào tạo An ninh mạng, Hệ thống và AI
 
 ---
 
